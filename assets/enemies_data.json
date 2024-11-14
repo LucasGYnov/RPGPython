@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Goblin Warrior",
+        "type": "terrestre",
+        "level": 4,
+        "spawn_chance": 0.4,
+        "base_hp": 110,
+        "base_attack": 18,
+        "crit_chance": 0.2
+    },
+    {
+        "name": "Orc Brute",
+        "type": "terrestre",
+        "level": 5,
+        "spawn_chance": 0.25,
+        "base_hp": 150,
+        "base_attack": 22,
+        "crit_chance": 0.18
+    },
+    {
+        "name": "Troll Berserker",
+        "type": "terrestre",
+        "level": 6,
+        "spawn_chance": 0.1,
+        "base_hp": 180,
+        "base_attack": 28,
+        "crit_chance": 0.25
+    },
+    {
+        "name": "Harpy Queen",
+        "type": "aérien",
+        "level": 4,
+        "spawn_chance": 0.2,
+        "base_hp": 95,
+        "base_attack": 20,
+        "crit_chance": 0.22
+    },
+    {
+        "name": "Sky Serpent",
+        "type": "aérien",
+        "level": 5,
+        "spawn_chance": 0.15,
+        "base_hp": 120,
+        "base_attack": 24,
+        "crit_chance": 0.3
+    },
+    {
+        "name": "Ancient Dragon",
+        "type": "aérien",
+        "level": 6,
+        "spawn_chance": 0.05,
+        "base_hp": 200,
+        "base_attack": 35,
+        "crit_chance": 0.3
+    },
+    {
+        "name": "Goblin Assassin",
+        "type": "terrestre",
+        "level": 3,
+        "spawn_chance": 0.5,
+        "base_hp": 80,
+        "base_attack": 12,
+        "crit_chance": 0.35
+    },
+    {
+        "name": "Orc Shaman",
+        "type": "terrestre",
+        "level": 4,
+        "spawn_chance": 0.3,
+        "base_hp": 100,
+        "base_attack": 15,
+        "crit_chance": 0.15
+    },
+    {
+        "name": "Stone Troll",
+        "type": "terrestre",
+        "level": 7,
+        "spawn_chance": 0.1,
+        "base_hp": 220,
+        "base_attack": 32,
+        "crit_chance": 0.2
+    },
+    {
+        "name": "Harpy Scout",
+        "type": "aérien",
+        "level": 3,
+        "spawn_chance": 0.25,
+        "base_hp": 70,
+        "base_attack": 14,
+        "crit_chance": 0.2
+    },
+    {
+        "name": "Thunder Drake",
+        "type": "aérien",
+        "level": 6,
+        "spawn_chance": 0.08,
+        "base_hp": 180,
+        "base_attack": 30,
+        "crit_chance": 0.28
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Minor Attack Potion",
+        "effect": "boost_attack",
+        "power": 10,
+        "quantity": 1,
+        "level": 1
+    },
+    {
+        "name": "Major Attack Potion",
+        "effect": "boost_attack",
+        "power": 30,
+        "quantity": 1,
+        "level": 2
+    },
+    {
+        "name": "Ultimate Attack Potion",
+        "effect": "boost_attack",
+        "power": 50,
+        "quantity": 1,
+        "level": 3
+    },
+    {
+        "name": "Wooden Shield",
+        "effect": "boost_shield",
+        "power": 15,
+        "quantity": 1,
+        "level": 1
+    },
+    {
+        "name": "Steel Shield",
+        "effect": "boost_shield",
+        "power": 30,
+        "quantity": 1,
+        "level": 2
+    },
+    {
+        "name": "Magic Shield",
+        "effect": "boost_shield",
+        "power": 50,
+        "quantity": 1,
+        "level": 3
+    },
+    {
+        "name": "Minor Health Potion",
+        "effect": "health_boost",
+        "power": 20,
+        "quantity": 1,
+        "level": 1
+    },
+    {
+        "name": "Major Health Potion",
+        "effect": "health_boost",
+        "power": 50,
+        "quantity": 1,
+        "level": 2
+    },
+    {
+        "name": "Ultimate Health Potion",
+        "effect": "health_boost",
+        "power": 100,
+        "quantity": 1,
+        "level": 3
+    },
+    {
+        "name": "Noob's Dagger",
+        "effect": "damage",
+        "power": 10,
+        "quantity": 1,
+        "level": 1
+    },
+    {
+        "name": "Noob's Dagger",
+        "effect": "damage",
+        "power": 15,
+        "quantity": 1,
+        "level": 1
+    },
+    {
+        "name": "Iron Sword",
+        "effect": "damage",
+        "power": 30,
+        "quantity": 1,
+        "level": 2
+    },
+    {
+        "name": "Steel Sword",
+        "effect": "damage",
+        "power": 50,
+        "quantity": 1,
+        "level": 3
+    },
+    {
+        "name": "Wooden Bow",
+        "effect": "damage",
+        "power": 25,
+        "quantity": 1,
+        "level": 1
+    },
+    {
+        "name": "Iron Bow",
+        "effect": "damage",
+        "power": 40,
+        "quantity": 1,
+        "level": 2
+    },
+    {
+        "name": "Magic Bow",
+        "effect": "damage",
+        "power": 60,
+        "quantity": 1,
+        "level": 3
+    },
+    {
+        "name": "Wooden Axe",
+        "effect": "damage",
+        "power": 35,
+        "quantity": 1,
+        "level": 2
+    },
+    {
+        "name": "Iron Axe",
+        "effect": "damage",
+        "power": 60,
+        "quantity": 1,
+        "level": 3
+    },
+    {
+        "name": "Agility Potion",
+        "effect": "boost_attack",
+        "power": 15,
+        "quantity": 1,
+        "level": 1
+    },
+    {
+        "name": "Potion of Invincibility",
+        "effect": "boost_shield",
+        "power": 100,
+        "quantity": 1,
+        "level": 3
+    },
+    {
+        "name": "Cloak of Shadows",
+        "effect": "boost_shield",
+        "power": 60,
+        "quantity": 1,
+        "level": 3
+    },
+    {
+        "name": "Regeneration Potion",
+        "effect": "health_boost",
+        "power": 25,
+        "quantity": 1,
+        "level": 2
+    },
+    {
+        "name": "Rapid Regeneration Potion",
+        "effect": "health_boost",
+        "power": 70,
+        "quantity": 1,
+        "level": 3
+    },
+    {
+        "name": "Flaming Magic Sword",
+        "effect": "damage",
+        "power": 80,
+        "quantity": 1,
+        "level": 3
+    },
+    {
+        "name": "Energy Shield",
+        "effect": "boost_shield",
+        "power": 80,
+        "quantity": 1,
+        "level": 3
+    }
+]
